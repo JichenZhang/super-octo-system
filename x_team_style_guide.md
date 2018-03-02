@@ -18,8 +18,8 @@
 * class constants
 
 ## Commenting style for public and private members of a class or interface:
-
-<brief statement of your team's commenting style>
+ 
+  Using javadoc style, on every member of classes. Include @author and the name of the author. Include precondition and postcondition if necessary.
 
 ### Examples
 
